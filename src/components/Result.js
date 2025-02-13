@@ -6,7 +6,7 @@ function Result({ drink, compatible, description, drinkImage, compatibleImage, r
     <div className='borderedArea'>
       <div className="resultContainer">
         <div className='resultHeader'>
-          <h3>˚ʚ♡ɞ˚₊โลกแห่งความรักของคุณ₊˚ʚ♡ɞ˚</h3>
+          <h4>♡ྀི₊โลกแห่งความรักของคุณ₊♡ྀ</h4>
         </div>
 
         <div className='resultDrink'>
