@@ -28,7 +28,7 @@ function Result({ drink, compatible, description, drinkImage, compatibleImage, r
 
 
       <div className='attribution'>
-          <a href="https://www.instagram.com/deenth.me/" target="_blank" rel="noopener noreferrer">WhoAreYouDayOfLove by @deenth.me</a>
+          <a href="https://www.instagram.com/deenth.me/" target="_blank" rel="noopener noreferrer">WhoAreYouDayOfLove instagram: @deenth.me</a>
         </div>
       </div>
 
