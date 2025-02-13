@@ -71,13 +71,13 @@ p {
 
 button {
   font-family: "Mitr", sans-serif;
-  color: #ECF8FE;
+  color: #454545;
   background-color: #F6BDD0;
   border: none;
   padding: 10px 20px;
   border-radius: 5px;
   cursor: pointer;
-  font-size: 0.8rem;
+  font-size: 0.9rem;
   margin-top: 20px;
   width: 100%;
 }

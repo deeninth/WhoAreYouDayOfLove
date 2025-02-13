@@ -189,6 +189,7 @@ function Quiz() {
 
   return (
     <div className="quiz-container-with-next">
+     
       <Question
         question={questions[currentQuestion].question}
         options={questions[currentQuestion].options}
@@ -200,7 +201,7 @@ function Quiz() {
         onClick={handleNextQuestion}
         disabled={!selectedAnswer} // Disable the button until an answer is selected
       >
-        ไปต่อ &gt;
+        ไปต่อ {currentQuestion + 1}/9  &gt;
       </button>
     </div>
 );
