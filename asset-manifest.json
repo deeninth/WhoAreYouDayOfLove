@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/WhoAreYouDayOfLove/static/css/main.8dcd02e2.css",
-    "main.js": "/WhoAreYouDayOfLove/static/js/main.aec013de.js",
+    "main.js": "/WhoAreYouDayOfLove/static/js/main.92ee0e2f.js",
     "static/js/453.7e5304bc.chunk.js": "/WhoAreYouDayOfLove/static/js/453.7e5304bc.chunk.js",
     "static/media/Nlove.png": "/WhoAreYouDayOfLove/static/media/Nlove.d45679cb432e2f54c7b0.png",
     "static/media/คนจริงใจ.png": "/WhoAreYouDayOfLove/static/media/คนจริงใจ.3ecd5f9e8de29e495b38.png",
@@ -12,11 +12,11 @@
     "static/media/นักโรแมนติก.png": "/WhoAreYouDayOfLove/static/media/นักโรแมนติก.aa67c38548c9d8525cb2.png",
     "index.html": "/WhoAreYouDayOfLove/index.html",
     "main.8dcd02e2.css.map": "/WhoAreYouDayOfLove/static/css/main.8dcd02e2.css.map",
-    "main.aec013de.js.map": "/WhoAreYouDayOfLove/static/js/main.aec013de.js.map",
+    "main.92ee0e2f.js.map": "/WhoAreYouDayOfLove/static/js/main.92ee0e2f.js.map",
     "453.7e5304bc.chunk.js.map": "/WhoAreYouDayOfLove/static/js/453.7e5304bc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8dcd02e2.css",
-    "static/js/main.aec013de.js"
+    "static/js/main.92ee0e2f.js"
   ]
 }
