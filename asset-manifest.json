@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/WhoAreYouDayOfLove/static/css/main.f11551a5.css",
-    "main.js": "/WhoAreYouDayOfLove/static/js/main.45c80deb.js",
+    "main.css": "/WhoAreYouDayOfLove/static/css/main.b771022c.css",
+    "main.js": "/WhoAreYouDayOfLove/static/js/main.3bd5106d.js",
     "static/js/453.7e5304bc.chunk.js": "/WhoAreYouDayOfLove/static/js/453.7e5304bc.chunk.js",
     "static/media/Nlove.png": "/WhoAreYouDayOfLove/static/media/Nlove.d45679cb432e2f54c7b0.png",
     "static/media/คนจริงใจ.png": "/WhoAreYouDayOfLove/static/media/คนจริงใจ.3ecd5f9e8de29e495b38.png",
@@ -10,13 +10,14 @@
     "static/media/รักสดใส.png": "/WhoAreYouDayOfLove/static/media/รักสดใส.712fdfaab806df78cf15.png",
     "static/media/รักมั่นคง.png": "/WhoAreYouDayOfLove/static/media/รักมั่นคง.4433a77a18f5d6826b52.png",
     "static/media/นักโรแมนติก.png": "/WhoAreYouDayOfLove/static/media/นักโรแมนติก.aa67c38548c9d8525cb2.png",
+    "static/media/รักอ่อนโยน.png": "/WhoAreYouDayOfLove/static/media/รักอ่อนโยน.e3f21d3bfff1e0d43280.png",
     "index.html": "/WhoAreYouDayOfLove/index.html",
-    "main.f11551a5.css.map": "/WhoAreYouDayOfLove/static/css/main.f11551a5.css.map",
-    "main.45c80deb.js.map": "/WhoAreYouDayOfLove/static/js/main.45c80deb.js.map",
+    "main.b771022c.css.map": "/WhoAreYouDayOfLove/static/css/main.b771022c.css.map",
+    "main.3bd5106d.js.map": "/WhoAreYouDayOfLove/static/js/main.3bd5106d.js.map",
     "453.7e5304bc.chunk.js.map": "/WhoAreYouDayOfLove/static/js/453.7e5304bc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f11551a5.css",
-    "static/js/main.45c80deb.js"
+    "static/css/main.b771022c.css",
+    "static/js/main.3bd5106d.js"
   ]
 }
